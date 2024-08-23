@@ -69,6 +69,16 @@
   </a>
 </div>
 
+<h2 align="center">Autores</h2>
+
+<p align="center">
+  <a href="https://github.com/RobertCastro86">
+    <img loading="lazy" src="https://github.com/user-attachments/assets/35f4b1f8-7dfd-41d8-ac85-cc386f882aca" width="115"><br>
+    <sub>Robert Vincius Castro e Silva</sub>
+  </a>
+</p>
+
+
 
 <br>
 
