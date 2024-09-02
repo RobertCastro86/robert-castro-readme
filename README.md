@@ -18,7 +18,7 @@
 
 <br>
 
-<h2 align="center">🚀My Skyls:</h2>
+<h2 align="center">My Skills🚀</h2>
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
