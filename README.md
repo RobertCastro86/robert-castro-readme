@@ -29,15 +29,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertCastro&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
 </div>
-<br>
-<div align="center">
-  <a href="https://github.com/RobertCastro86">
-    <img height="180em" src="https://github.com/user-attachments/assets/cc5b09c4-2c86-4a98-b641-6b11c72626eb"/>
-</div>
-<div align="center">
-  <a href="https://github.com/RobertCastro86">
-    <img height="180em" src="https://github.com/user-attachments/assets/cc5b09c4-2c86-4a98-b641-6b11c72626eb"/>
-</div>
 
 <br>
 
