@@ -8,8 +8,7 @@
 <div align="center">
     <p align="center" justify-contet: center>Como estudante de Análise e Desenvolvimento de Sistemas e habilidades em HTML, CSS e JavaScript, Tenho um forte interesse em novas tecnologias e tendências emergentes, como Inteligência Artificial, Computação em Nuvem e Desenvolvimento de Aplicações Web. Destaco-me nas áreas de vendas, tecnologia e marketing, com experiência em Marketing Digital e vendas no setor imobiliário desde 2018.</p>
 </div>
-
-
+<br>
 <h2 align="center">Tech Stack💻</h2>
 
 <div align="center">
@@ -37,8 +36,6 @@
 <h2 align="center">GitHub Stats📊</h2>
 
 <div align="center">
-
-  
   <a href="https://github.com/RobertCastro86">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertCastro86&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertCastro&layout=compact&langs_count=6&theme=tokyonight"/>
