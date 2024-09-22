@@ -39,14 +39,6 @@
     <img height="180em" src="https://github.com/user-attachments/assets/cc5b09c4-2c86-4a98-b641-6b11c72626eb"/>
 </div>
 
-<div align="center">
-    <p align="center" justify-contet: center>Como estudante de Análise e Desenvolvimento de Sistemas e habilidades em HTML, CSS e JavaScript, Tenho um forte interesse em novas tecnologias e tendências emergentes, como Inteligência Artificial, Computação em Nuvem e Desenvolvimento de Aplicações Web. Destaco-me nas áreas de vendas, tecnologia e marketing, com experiência em Marketing Digital e vendas no setor imobiliário desde 2018.</p>
-</div>
-
-<div align="center">
-    <p align="center" justify-contet: center>Como estudante de Análise e Desenvolvimento de Sistemas e habilidades em HTML, CSS e JavaScript, Tenho um forte interesse em novas tecnologias e tendências emergentes, como Inteligência Artificial, Computação em Nuvem e Desenvolvimento de Aplicações Web. Destaco-me nas áreas de vendas, tecnologia e marketing, com experiência em Marketing Digital e vendas no setor imobiliário desde 2018.</p>
-</div>
-
 <br>
 
 <h2 align="center">My Skills🚀</h2>
